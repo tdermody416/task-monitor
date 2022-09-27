@@ -1,2 +1,2 @@
 # task-monitor
-Powershell script to monirot Scheduled Tasks
+Powershell script to monitor Scheduled Tasks
